@@ -69,7 +69,8 @@
 - $HISTSIZE: determine the number of commands that will be remembered
 - $HISTFILE: default is ~./bash_history
 
-### file globbing
+### file globbing (ออกสอบบแบบง่ายๆ)
+- เน้นการจัดกลุ่มของไฟล์
 - `*` asterisk: matching the asterisk the **any combination of characters (even none)**
 - `?` question mark: macthing the question mark with **exactly one character**
 - `[]` square brackets: matching any of the characters between `[` and the first subsequent `]`
@@ -106,6 +107,9 @@
 - time
 - gzip: compress data cause storage is a resource that are priceful
 - zcat: view file that are comrpessed with gzip
+
+### Regex
+- เน้นการหา pattern ของ string ใน file
 
 ## Vi 😎 🤝 🗿
 
