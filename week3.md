@@ -37,3 +37,4 @@
 		- re-use ♲
 - geo-politic aspects: "conflict-free" เป็นการส่งเสริมสิ่งที่ "ดี"
 
+
