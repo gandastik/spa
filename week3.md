@@ -25,7 +25,7 @@
 	- self-owned power generater if you are a gigachad 💪
 - HVAC (Heating Ventilation and Air Conditioning): ไฟฟ้าสถิต -> ความชื้นสัมพัทธ์ต่ำ
 - **Protection Alarm**: แจ้งเตือน 🚒 eg. ไฟดับ, ไฟไหม้ 🔥 -> Thermometer, Fire Alarm, Smoke Detector, วัดค.ชื้นสัมพัทธ์
-- SCB Incident: +10 deads 💀 -> what happens: ช่างไปซ่อม แล้วทำให้เกิดข้อผิดพลาดของ smoke detector ปล่อย gas that cause the room to have no O2 
+- SCB Incident: +10 deads -> what happens: ช่างไปซ่อม แล้วทำให้เกิดข้อผิดพลาดของ smoke detector ปล่อย gas that cause the room to have no O2 
 
 - all of the above then come into "profit ?" how do you estimate the "worth" of investing in the hardware and environment 
 
